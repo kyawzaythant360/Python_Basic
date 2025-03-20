@@ -91,3 +91,5 @@ elif a == b or b == c or a == c:
     print("Isosceles Triangle")
 else:
     print("Scalene Triangle")
+
+
